@@ -2,6 +2,9 @@ import aiProfileImage from '../assets/ai.png'//we write./ to find file in same f
 
 import userProfileImage from '../assets/user.png'
 
+import './ChatMsg.css'
+
+
   export function ChatMsg({msg,sender}){
       
        
